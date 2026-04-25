@@ -58,9 +58,8 @@
 | 项目 | 技术 | 描述 |
 |:---|:---:|:---|
 | [**ocean-feishu-mcp**](https://github.com/ArtLjn/ocean-feishu-mcp) | `TypeScript` | 基于 MCP 协议的飞书智能连接器，Claude Code × 飞书双向消息桥接，支持权限请求转发与自然语言裁决 |
-| [**ocean-duck**](https://github.com/ArtLjn/ocean-duck) | `Python` | 极致简洁的 Python 开发辅助工具，Ocean 生态的基础设施组件 |
-| [**CC-OCean-Cli**](https://github.com/ArtLjn/CC-OCean-Cli) | `TypeScript` | 统一的命令行中枢，多提供商一键 `/model` 切换，管理全栈开发流 |
-| [**ocean-session-manager**](https://github.com/ArtLjn/ocean-session-manager) | `Python` | OCean Cli 配套设施，支持 session 管理、导出、summary 总计、跨 session 工作交接 |
+| [**ocean-dock**](https://github.com/ArtLjn/ocean-dock) | `Python` | 极致简洁的 Python 开发辅助工具，Ocean 生态的基础设施组件 |
+| [**ocean-cc-cli**](https://github.com/ArtLjn/ocean-cc-cli) | `TypeScript` | 统一的命令行中枢，多提供商一键 `/model` 切换，管理全栈开发流 |
 
 ### 独立项目
 
