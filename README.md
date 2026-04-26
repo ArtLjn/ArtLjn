@@ -6,8 +6,12 @@
 
   [![Blog](https://img.shields.io/badge/Blog-lllcnm.cn-2F81F7?style=flat-square&logo=ghost&logoColor=white&labelColor=1a1a2e)](https://lllcnm.cn)
   [![GitHub](https://img.shields.io/badge/GitHub-ArtLjn-181717?style=flat-square&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/ArtLjn)
-  [![Claude Code](https://img.shields.io/badge/Claude_Code-User-CC785C?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e)](https://docs.anthropic.com/en/docs/claude-code)
+  [![Claude Code](https://img.shields.io/badge/Claude_Code-User-2F81F7?style=flat-square&logo=anthropic&logoColor=white&labelColor=1a1a2e)](https://docs.anthropic.com/en/docs/claude-code)
 
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+the+Ocean+Developer+Ecosystem;MCP+Protocol+Explorer;Agent+Architecture+Architect;Python+%7C+Go+%7C+TypeScript" alt="Typing SVG" />
 </div>
 
 ---
@@ -27,7 +31,9 @@
 ### `tech_stack`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,golang,typescript,java,vue,mysql,redis,docker,git,linux,solidity&theme=dark&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,golang,typescript,java,vue,mysql&theme=dark&perline=6" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=redis,docker,git,linux,solidity&theme=dark&perline=6" />
 </div>
 
 <div align="center">
@@ -53,9 +59,9 @@
 
 | 项目 | 技术 | 简介 |
 |:---|:---:|:---|
-| [ocean-feishu-mcp](https://github.com/ArtLjn/ocean-feishu-mcp) | `TS` | MCP 飞书连接器，Claude Code × 飞书双向桥接 |
-| [ocean-dock](https://github.com/ArtLjn/ocean-dock) | `Py` | Python 开发辅助工具，Ocean 基础设施 |
-| [ocean-cc-cli](https://github.com/ArtLjn/ocean-cc-cli) | `TS` | 统一命令行中枢，多提供商一键切换 |
+| 🌊 [ocean-feishu-mcp](https://github.com/ArtLjn/ocean-feishu-mcp) | `TS` | MCP 飞书连接器，Claude Code × 飞书双向桥接 |
+| 🐋 [ocean-dock](https://github.com/ArtLjn/ocean-dock) | `Py` | Python 开发辅助工具，Ocean 基础设施 |
+| ⚡ [ocean-cc-cli](https://github.com/ArtLjn/ocean-cc-cli) | `TS` | 统一命令行中枢，多提供商一键切换 |
 
 </td>
 <td width="50%">
@@ -64,9 +70,9 @@
 
 | 项目 | 技术 | 简介 |
 |:---|:---:|:---|
-| [kratos-blog](https://github.com/ArtLjn/kratos-blog) | `Go` | 云原生微服务博客，容器化部署 |
-| [medical-neighbor](https://github.com/ArtLjn/medical-neighbor) | `Go` | 社区问诊服务，AI + 区块链 |
-| [OllamaRag](https://github.com/ArtLjn/OllamaRag) | `Py` | Ollama + Milvus 知识库系统 |
+| 📝 [kratos-blog](https://github.com/ArtLjn/kratos-blog) | `Go` | 云原生微服务博客，容器化部署 |
+| 🏥 [medical-neighbor](https://github.com/ArtLjn/medical-neighbor) | `Go` | 社区问诊服务，AI + 区块链 |
+| 🧠 [OllamaRag](https://github.com/ArtLjn/OllamaRag) | `Py` | Ollama + Milvus 知识库系统 |
 
 </td>
 </tr>
@@ -96,7 +102,15 @@ class Developer:
 
 ---
 
+### `connect`
+
 <div align="center">
-  <a href="https://lllcnm.cn"><img src="https://img.shields.io/badge/Blog-lllcnm.cn-2F81F7?style=for-the-badge&labelColor=1a1a2e" /></a>
-  <a href="https://github.com/ArtLjn"><img src="https://img.shields.io/badge/GitHub-ArtLjn-181717?style=for-the-badge&labelColor=1a1a2e" /></a>
+
+  [![Blog](https://img.shields.io/badge/Blog-lllcnm.cn-2F81F7?style=for-the-badge&logo=ghost&logoColor=white&labelColor=1a1a2e)](https://lllcnm.cn)
+  [![GitHub](https://img.shields.io/badge/GitHub-ArtLjn-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/ArtLjn)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:06b6d4,50:2F81F7,100:0d1117" width="100%" />
 </div>
