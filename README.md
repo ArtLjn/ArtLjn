@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArtLjn/ArtLjn/main/assets/banner.png" width="100%" alt="ArtLjn Banner" />
+  <img src="https://raw.githubusercontent.com/ArtLjn/ArtLjn/main/assets/banner.svg" width="100%" alt="ArtLjn Banner" />
 </div>
 
 <div align="center">
