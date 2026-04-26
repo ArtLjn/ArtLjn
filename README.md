@@ -83,7 +83,24 @@
 ### `stats`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ArtLjn/ArtLjn/main/assets/stats.png" width="100%" alt="Stats Dashboard" />
+
+| ⭐ Total Stars | 🔥 Commits 2025 | 📁 Repositories | 🌐 Languages |
+|:---:|:---:|:---:|:---:|
+| **39** | **133** | **11** | **7** |
+
+</div>
+
+<div align="center">
+
+```
+  TypeScript  ██████████████████░░░░░░░░░░░░░░░░░░░░  45.78%
+  JavaScript  ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░  28.58%
+  Java        ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  17.77%
+  HTML        ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5.03%
+  Go          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+  Python      ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
+```
+
 </div>
 
 ---
